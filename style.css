@@ -44,7 +44,7 @@ body {
 .card {
   padding: 26px 32px;
   border-radius: 8px;
-  box-shadow: 40px 60px 50px -47px hsla(217, 19%, 35%, 0.25);
+  box-shadow: 40px 60px 50px  hsla(217, 19%, 35%, .3);
 }
 
 .card__header {
